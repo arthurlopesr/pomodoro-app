@@ -15,6 +15,7 @@
 
 This project aims to put into practice JavaScript, HTML and CSS, where a timer was created based on the Pomodoro technique with Dark Mode, it was developed in the Rocketseat Explorer program class.
 
+Deployin: https://pomodoro-app-by-arthur-lopes.netlify.app/
 ## Tech Stack
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Badge" height="25">&nbsp;</a>

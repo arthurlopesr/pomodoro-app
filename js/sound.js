@@ -22,9 +22,7 @@ export default function Sound() {
 
   bgForest.loop = true;
 
-  const bgRain = new Audio(
-    "https://github.com/IgorSilvaMedeiros/FocusTimer-2.0/blob/master/sound/rain.wav?raw=true"
-  );
+  const bgRain = new Audio("./sound/rain.wav")
 
   bgRain.volume = volumeRain.value;
 

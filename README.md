@@ -6,16 +6,6 @@
 	Project created for focus based on Pomodoro with Dark Mode
 </h3>
 
-<h4 align="center">
-	Status: 🚀 Finished
-</h4>
-
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#tech-stack">Tech Stack</a> •
-	<a href="#usage">Usage</a> • 
-	<a href="#contact">Contact</a> 
-</p>
 
 <p align="center">
   <img alt="Capa do projeto" src="./img/img.png" width="80%">
